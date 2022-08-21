@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'NIT, Surat',
-        course: 'B.Tech - Electronics and Communication',
-        startYear: '2017',
-        endYear: '2021'
+        institution: 'Panpaciﬁc UniversityClass',
+        course: 'BS - Civil Engineering',
+        startYear: '2018',
+        endYear: '2022'
     },
     {
         id: 2,
-        institution: 'P V Modi High School, Rajkot',
-        course: 'Higher Secondary Education',
-        startYear: '2014',
-        endYear: '2016'
-    },
-    {
-        id: 3,
-        institution: 'Sarvoday High School, Maliya Hatina',
-        course: 'Secondary Education',
-        startYear: '2011',
-        endYear: '2014'
+        institution: 'Balungao National High School',
+        course: 'Bachelor of Technology',
+        startYear: '2016',
+        endYear: '2018'
     },
 ]

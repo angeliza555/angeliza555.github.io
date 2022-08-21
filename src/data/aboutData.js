@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name is Aman. I'm a software development enthusiastic based in Maliya Hatina, IND.",
-    description2: "I am interested in many fields such as Development, Machine Learning, Competitive Coding. I am also enthusiastic about cybersecurity. I actively participate in CTFs (Hacking Competitions). Apart from that, I love exploring Astronomy, watching TV series, Reading Novels and Playing Games. Also i am good at making jokes, so reach me out when you are feeling low.",
-    image: 1
+    description1: "My name is Juvyliza. I'm a Management and autoCAD designing enthusiastic based in Pangasinan, PH.",
+    description2: "I am a final-year undergrad student pursuing a B.S. in Civil Engineering from Panpaciﬁc University - Pangasinan, Philippines. I am interested in Project management and Analysis. I have many internship experiences working in management and civil engineering. I also attended many seminars. Apart from that, I am also interested in designing using AutoCAD and other software based on adobe. I have completed many courses and certification based on my interest.",
+    image: 2
 }

@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'amangondaliya555@gmail.com',
-    phone: '+917874215123',
-    address: 'Lallu Colony, Maliya Hatina, India - 362245 ',
+    email: 'angelojuvyliza@gmail.com',
+    phone: '+639275303048',
+    address: 'Pugaro, Pangasinan, Philippines - 2442 ',
 
     sheetAPI: ''
 }

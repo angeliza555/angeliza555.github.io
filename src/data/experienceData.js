@@ -1,22 +1,22 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Nokia',
-        jobtitle: 'Graduate Engineer Trainee',
-        startYear: 'July 2021 ',
-        endYear: ' Present'
+        company: 'Linecs Engineering Solutions and Trading',
+        jobtitle: 'Design and Management Intern',
+        startYear: 'June 2022 ',
+        endYear: ' July 2022'
     },
     {
         id: 2,
-        company: 'Property Advisor & Architecture',
-        jobtitle: 'Team Leader Intern',
-        startYear: 'April 2021 ',
-        endYear: ' July 2021'
+        company: 'Local Government Unit',
+        jobtitle: 'Management Intern',
+        startYear: 'Aug 2021 ',
+        endYear: ' Aug 2021'
     },
     {
         id: 3,
-        company: 'JP Morgan Virtual Experience',
-        jobtitle: 'Software Engineering Intern',
+        company: 'Local Government Unit',
+        jobtitle: 'Speical Program Of Emploement For Students',
         startYear: 'April 2020 ',
         endYear: ' May 2020'
     },

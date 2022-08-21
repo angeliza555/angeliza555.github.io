@@ -1,10 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
-import img from '../assets/png/profileimg.png'
+import profile_pic from '../assets/png/profile.jpeg'
 
 export const headerData = {
-    name: 'Aman Gondaliya',
-    title: "Software Engineer",
-    desciption:"I make stuff, I break stuff, I make stuff that break stuff.",
-    image: img,
+    name: 'Juvyliza Luna Angelo',
+    title: "Civil Engineer",
+    desciption:"I am designing my world using autoCAD.",
+    image: profile_pic,
     resumePdf: resume
 }
