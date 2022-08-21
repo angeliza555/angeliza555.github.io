@@ -9,7 +9,7 @@ export const educationData = [
     {
         id: 2,
         institution: 'Balungao National High School',
-        course: 'Bachelor of Technology',
+        course: 'Senior High School- GAS Strand ',
         startYear: '2016',
         endYear: '2018'
     },
