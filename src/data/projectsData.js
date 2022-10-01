@@ -12,74 +12,74 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
+        projectDesc: '',
         tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
+        code: '',
+        demo: '',
+        image: ''
     },
     {
         id: 2,
         projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
+        projectDesc: '',
         tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: two
+        code: '',
+        demo: '',
+        image: ''
     },
     {
         id: 3,
         projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+        projectDesc: '',
         tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
+        code: '',
+        demo: '',
+        image: ''
     },
     {
         id: 4,
         projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
+        projectDesc: '',
         tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: four
+        code: '',
+        demo: '',
+        image: ''
     },
     {
         id: 5,
         projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
+        projectDesc: '',
         tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: five
+        code: '',
+        demo: '',
+        image: ''
     },
     {
         id: 6,
         projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
+        projectDesc: '',
         tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: six
+        code: '',
+        demo: '',
+        image: ''
     },
     {
         id: 7,
         projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
+        projectDesc: '',
         tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: seven
+        code: '',
+        demo: '',
+        image: ''
     },
     {
         id: 8,
         projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
+        projectDesc: '',
         tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
+        code: '',
+        demo: '',
+        image: ''
     },
 ]
 
